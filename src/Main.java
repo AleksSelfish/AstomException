@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws MyException {
 
 
-        //Exeprion
+        //Exception
         //ex 1
         String string = null;
         try {
